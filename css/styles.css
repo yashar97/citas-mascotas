@@ -51,6 +51,11 @@ svg {
   width: 21px;
 }
 
-.div-cita {
-  border: 2px solid steelblue;
+.citas {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  width: 50%;
 }
